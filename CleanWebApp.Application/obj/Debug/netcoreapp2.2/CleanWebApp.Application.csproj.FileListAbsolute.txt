@@ -1,0 +1,14 @@
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\bin\Debug\netcoreapp2.2\CleanWebApp.Application.deps.json
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\bin\Debug\netcoreapp2.2\CleanWebApp.Application.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\bin\Debug\netcoreapp2.2\CleanWebApp.Application.pdb
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\bin\Debug\netcoreapp2.2\CleanWebApp.Domains.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\bin\Debug\netcoreapp2.2\CleanWebApp.Infra.Data.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\bin\Debug\netcoreapp2.2\CleanWebApp.Domains.pdb
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\bin\Debug\netcoreapp2.2\CleanWebApp.Infra.Data.pdb
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\obj\Debug\netcoreapp2.2\CleanWebApp.Application.csprojAssemblyReference.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\obj\Debug\netcoreapp2.2\CleanWebApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\obj\Debug\netcoreapp2.2\CleanWebApp.Application.AssemblyInfoInputs.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\obj\Debug\netcoreapp2.2\CleanWebApp.Application.AssemblyInfo.cs
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\obj\Debug\netcoreapp2.2\CleanWebApp.Application.csproj.CopyComplete
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\obj\Debug\netcoreapp2.2\CleanWebApp.Application.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Application\obj\Debug\netcoreapp2.2\CleanWebApp.Application.pdb

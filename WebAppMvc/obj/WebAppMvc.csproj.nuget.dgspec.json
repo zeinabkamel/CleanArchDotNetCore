@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\WebAppMvc\\WebAppMvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Application\\CleanWebApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Application\\CleanWebApp.Application.csproj",
+        "projectName": "CleanWebApp.Application",
+        "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Application\\CleanWebApp.Application.csproj",
+        "packagesPath": "C:\\Users\\DELLZeinabKamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELLZeinabKamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\CleanWebApp.Domains.csproj": {
+                "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\CleanWebApp.Domains.csproj"
+              },
+              "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\CleanWebApp.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\CleanWebApp.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\CleanWebApp.Domains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\CleanWebApp.Domains.csproj",
+        "projectName": "CleanWebApp.Domains",
+        "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\CleanWebApp.Domains.csproj",
+        "packagesPath": "C:\\Users\\DELLZeinabKamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELLZeinabKamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\CleanWebApp.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\CleanWebApp.Infra.Data.csproj",
+        "projectName": "CleanWebApp.Infra.Data",
+        "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\CleanWebApp.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\DELLZeinabKamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELLZeinabKamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\CleanWebApp.Domains.csproj": {
+                "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Domains\\CleanWebApp.Domains.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Ioc\\CleanWebApp.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Ioc\\CleanWebApp.Infra.Ioc.csproj",
+        "projectName": "CleanWebApp.Infra.Ioc",
+        "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Ioc\\CleanWebApp.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\DELLZeinabKamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELLZeinabKamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Application\\CleanWebApp.Application.csproj": {
+                "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Application\\CleanWebApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\WebAppMvc\\WebAppMvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\WebAppMvc\\WebAppMvc.csproj",
+        "projectName": "WebAppMvc",
+        "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\WebAppMvc\\WebAppMvc.csproj",
+        "packagesPath": "C:\\Users\\DELLZeinabKamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\WebAppMvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELLZeinabKamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\CleanWebApp.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Infra.Data\\CleanWebApp.Infra.Data.csproj"
+              },
+              "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Ioc\\CleanWebApp.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Users\\DELLZeinabKamel\\source\\repos\\CleanWebAppTutorial\\CleanWebApp.Ioc\\CleanWebApp.Infra.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

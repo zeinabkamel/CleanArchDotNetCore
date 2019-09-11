@@ -1,0 +1,16 @@
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.deps.json
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.pdb
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Application.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Domains.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Infra.Data.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Application.pdb
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Domains.pdb
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Infra.Data.pdb
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.csprojAssemblyReference.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.AssemblyInfo.cs
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.csproj.CopyComplete
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Infra.Ioc.pdb

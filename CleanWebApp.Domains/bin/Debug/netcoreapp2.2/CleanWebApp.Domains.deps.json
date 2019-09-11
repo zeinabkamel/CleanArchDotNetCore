@@ -1,0 +1,165 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CleanWebApp.Domains/1.0.0": {
+        "dependencies": {
+          "System.Net.Http.Rtc": "4.0.0.0",
+          "System.Reflection.Context": "4.0.0.0",
+          "System.Runtime.WindowsRuntime": "4.0.0.0",
+          "System.Runtime.WindowsRuntime.UI.Xaml": "4.0.0.0",
+          "System.ServiceModel": "4.0.0.0",
+          "System.ServiceModel.Duplex": "4.0.0.0",
+          "System.ServiceModel.Http": "4.0.0.0",
+          "System.ServiceModel.NetTcp": "4.0.0.0",
+          "System.ServiceModel.Primitives": "4.0.0.0",
+          "System.ServiceModel.Security": "4.0.0.0"
+        },
+        "runtime": {
+          "CleanWebApp.Domains.dll": {}
+        }
+      },
+      "System.Net.Http.Rtc/4.0.0.0": {
+        "runtime": {
+          "System.Net.Http.Rtc.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.Reflection.Context/4.0.0.0": {
+        "runtime": {
+          "System.Reflection.Context.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.Runtime.WindowsRuntime/4.0.0.0": {
+        "runtime": {
+          "System.Runtime.WindowsRuntime.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.Runtime.WindowsRuntime.UI.Xaml/4.0.0.0": {
+        "runtime": {
+          "System.Runtime.WindowsRuntime.UI.Xaml.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.ServiceModel/4.0.0.0": {
+        "runtime": {
+          "System.ServiceModel.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.ServiceModel.Duplex/4.0.0.0": {
+        "runtime": {
+          "System.ServiceModel.Duplex.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.ServiceModel.Http/4.0.0.0": {
+        "runtime": {
+          "System.ServiceModel.Http.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.ServiceModel.NetTcp/4.0.0.0": {
+        "runtime": {
+          "System.ServiceModel.NetTcp.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.ServiceModel.Primitives/4.0.0.0": {
+        "runtime": {
+          "System.ServiceModel.Primitives.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      },
+      "System.ServiceModel.Security/4.0.0.0": {
+        "runtime": {
+          "System.ServiceModel.Security.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.18020"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanWebApp.Domains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Net.Http.Rtc/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reflection.Context/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.WindowsRuntime/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.WindowsRuntime.UI.Xaml/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ServiceModel/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ServiceModel.Duplex/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ServiceModel.Http/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ServiceModel.NetTcp/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ServiceModel.Primitives/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ServiceModel.Security/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

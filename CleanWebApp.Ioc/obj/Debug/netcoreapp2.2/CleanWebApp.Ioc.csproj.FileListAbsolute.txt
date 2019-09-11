@@ -1,0 +1,6 @@
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Ioc.deps.json
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\bin\Debug\netcoreapp2.2\CleanWebApp.Ioc.dll
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Ioc.csprojAssemblyReference.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Ioc.AssemblyInfoInputs.cache
+C:\Users\DELLZeinabKamel\source\repos\CleanWebAppTutorial\CleanWebApp.Ioc\obj\Debug\netcoreapp2.2\CleanWebApp.Ioc.AssemblyInfo.cs

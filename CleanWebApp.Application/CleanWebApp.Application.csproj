@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanWebApp.Domains\CleanWebApp.Domains.csproj" />
+    <ProjectReference Include="..\CleanWebApp.Infra.Data\CleanWebApp.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
